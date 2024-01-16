@@ -42,3 +42,5 @@ except ValueError:
 
 for shoes in [high, medium, low]:
 	shoes.buy(shoe_budget)
+
+#then run python3 shoebudget.py to see if you can cop some sneaks! 
